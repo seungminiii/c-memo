@@ -1,0 +1,15 @@
+﻿  문제2 풀이.c
+C:\Users\User\source\repos\240415\240415\문제2 풀이.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  C:\Users\User\source\repos\240415\240415\문제2 풀이.c(1,1):
+  이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
+  
+C:\Users\User\source\repos\240415\240415\문제2 풀이.c(57,68): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  C:\Users\User\source\repos\240415\240415\문제2 풀이.c(57,68):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  
+C:\Users\User\source\repos\240415\240415\문제2 풀이.c(65,11): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xec'이(가) 있습니다.
+C:\Users\User\source\repos\240415\240415\문제2 풀이.c(65,68): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  C:\Users\User\source\repos\240415\240415\문제2 풀이.c(65,68):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  
+  240415.vcxproj -> C:\Users\User\source\repos\240415\x64\Debug\240415.exe

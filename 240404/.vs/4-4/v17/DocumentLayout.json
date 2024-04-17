@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\240404\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F673B8CA-F6FC-48D1-8EDF-144B60865256}|4-4\\4-4.vcxproj|C:\\Users\\User\\source\\repos\\240404\\4-4\\\uBC31\uC900 \uBB38\uC81C \uC2DC\uD5D8\uC131\uC801.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F673B8CA-F6FC-48D1-8EDF-144B60865256}|4-4\\4-4.vcxproj|solutionrelative:4-4\\\uBC31\uC900 \uBB38\uC81C \uC2DC\uD5D8\uC131\uC801.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673B8CA-F6FC-48D1-8EDF-144B60865256}|4-4\\4-4.vcxproj|C:\\Users\\User\\source\\repos\\240404\\4-4\\\uB17C\uB9AC\uC5F0\uC0B0\uC790.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F673B8CA-F6FC-48D1-8EDF-144B60865256}|4-4\\4-4.vcxproj|solutionrelative:4-4\\\uB17C\uB9AC\uC5F0\uC0B0\uC790.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673B8CA-F6FC-48D1-8EDF-144B60865256}|4-4\\4-4.vcxproj|C:\\Users\\User\\source\\repos\\240404\\4-4\\else if.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F673B8CA-F6FC-48D1-8EDF-144B60865256}|4-4\\4-4.vcxproj|solutionrelative:4-4\\else if.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673B8CA-F6FC-48D1-8EDF-144B60865256}|4-4\\4-4.vcxproj|C:\\Users\\User\\source\\repos\\240404\\4-4\\\uC544\uC2A4\uD0A4\uCF54\uB4DC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F673B8CA-F6FC-48D1-8EDF-144B60865256}|4-4\\4-4.vcxproj|solutionrelative:4-4\\\uC544\uC2A4\uD0A4\uCF54\uB4DC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uBC31\uC900 \uBB38\uC81C \uC2DC\uD5D8\uC131\uC801.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\240404\\4-4\\\uBC31\uC900 \uBB38\uC81C \uC2DC\uD5D8\uC131\uC801.c",
+              "RelativeDocumentMoniker": "4-4\\\uBC31\uC900 \uBB38\uC81C \uC2DC\uD5D8\uC131\uC801.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\240404\\4-4\\\uBC31\uC900 \uBB38\uC81C \uC2DC\uD5D8\uC131\uC801.c",
+              "RelativeToolTip": "4-4\\\uBC31\uC900 \uBB38\uC81C \uC2DC\uD5D8\uC131\uC801.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T02:40:16.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uB17C\uB9AC\uC5F0\uC0B0\uC790.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\240404\\4-4\\\uB17C\uB9AC\uC5F0\uC0B0\uC790.c",
+              "RelativeDocumentMoniker": "4-4\\\uB17C\uB9AC\uC5F0\uC0B0\uC790.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\240404\\4-4\\\uB17C\uB9AC\uC5F0\uC0B0\uC790.c",
+              "RelativeToolTip": "4-4\\\uB17C\uB9AC\uC5F0\uC0B0\uC790.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T02:26:02.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uC544\uC2A4\uD0A4\uCF54\uB4DC.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\240404\\4-4\\\uC544\uC2A4\uD0A4\uCF54\uB4DC.c",
+              "RelativeDocumentMoniker": "4-4\\\uC544\uC2A4\uD0A4\uCF54\uB4DC.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\240404\\4-4\\\uC544\uC2A4\uD0A4\uCF54\uB4DC.c",
+              "RelativeToolTip": "4-4\\\uC544\uC2A4\uD0A4\uCF54\uB4DC.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T00:07:31.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "else if.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\240404\\4-4\\else if.c",
+              "RelativeDocumentMoniker": "4-4\\else if.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\240404\\4-4\\else if.c",
+              "RelativeToolTip": "4-4\\else if.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T00:07:29.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

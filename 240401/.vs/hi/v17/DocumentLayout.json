@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\240401\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05F5C9DA-620F-4F65-9981-402466DA4095}|hi\\hi.vcxproj|C:\\Users\\User\\source\\repos\\240401\\hi\\hihi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05F5C9DA-620F-4F65-9981-402466DA4095}|hi\\hi.vcxproj|solutionrelative:hi\\hihi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F5C9DA-620F-4F65-9981-402466DA4095}|hi\\hi.vcxproj|C:\\Users\\User\\source\\repos\\240401\\hi\\\uAF2C\uB9C8\uC815\uBBFC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05F5C9DA-620F-4F65-9981-402466DA4095}|hi\\hi.vcxproj|solutionrelative:hi\\\uAF2C\uB9C8\uC815\uBBFC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F5C9DA-620F-4F65-9981-402466DA4095}|hi\\hi.vcxproj|C:\\Users\\User\\source\\repos\\240401\\hi\\\uC0AC\uCE59\uC5F0\uC0B0.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05F5C9DA-620F-4F65-9981-402466DA4095}|hi\\hi.vcxproj|solutionrelative:hi\\\uC0AC\uCE59\uC5F0\uC0B0.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F5C9DA-620F-4F65-9981-402466DA4095}|hi\\hi.vcxproj|C:\\Users\\User\\source\\repos\\240401\\hi\\hi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05F5C9DA-620F-4F65-9981-402466DA4095}|hi\\hi.vcxproj|solutionrelative:hi\\hi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uAF2C\uB9C8\uC815\uBBFC.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\240401\\hi\\\uAF2C\uB9C8\uC815\uBBFC.c",
+              "RelativeDocumentMoniker": "hi\\\uAF2C\uB9C8\uC815\uBBFC.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\240401\\hi\\\uAF2C\uB9C8\uC815\uBBFC.c",
+              "RelativeToolTip": "hi\\\uAF2C\uB9C8\uC815\uBBFC.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-12T00:50:36.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uC0AC\uCE59\uC5F0\uC0B0.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\240401\\hi\\\uC0AC\uCE59\uC5F0\uC0B0.c",
+              "RelativeDocumentMoniker": "hi\\\uC0AC\uCE59\uC5F0\uC0B0.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\240401\\hi\\\uC0AC\uCE59\uC5F0\uC0B0.c",
+              "RelativeToolTip": "hi\\\uC0AC\uCE59\uC5F0\uC0B0.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-12T00:50:33.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hihi.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\240401\\hi\\hihi.c",
+              "RelativeDocumentMoniker": "hi\\hihi.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\240401\\hi\\hihi.c",
+              "RelativeToolTip": "hi\\hihi.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T01:55:49.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hi.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\240401\\hi\\hi.c",
+              "RelativeDocumentMoniker": "hi\\hi.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\240401\\hi\\hi.c",
+              "RelativeToolTip": "hi\\hi.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T01:55:48.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

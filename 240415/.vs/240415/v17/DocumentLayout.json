@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\240415\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3916760-46D1-4FF3-B89C-FD4B3FEF6B1D}|240415\\240415.vcxproj|C:\\Users\\User\\source\\repos\\240415\\240415\\\uD568\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3916760-46D1-4FF3-B89C-FD4B3FEF6B1D}|240415\\240415.vcxproj|solutionrelative:240415\\\uD568\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uD568\uC218.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\240415\\240415\\\uD568\uC218.c",
+              "RelativeDocumentMoniker": "240415\\\uD568\uC218.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\240415\\240415\\\uD568\uC218.c",
+              "RelativeToolTip": "240415\\\uD568\uC218.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-16T01:40:33.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

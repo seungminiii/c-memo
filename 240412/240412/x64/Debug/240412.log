@@ -1,0 +1,2 @@
+﻿  d.c
+C:\Users\User\source\repos\240412\240412\d.c(7,1): error C4700: 초기화되지 않은 'n' 지역 변수를 사용했습니다.
