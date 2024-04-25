@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\c\uC5B8\uC5B4\\240417~22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{664BFE86-18E9-46F6-98A8-F787BC901D38}|240417~22\\240417~22.vcxproj|C:\\Users\\User\\Desktop\\c\uC5B8\uC5B4\\240417~22\\240417~22\\\uAD6C\uC870\uCCB4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{664BFE86-18E9-46F6-98A8-F787BC901D38}|240417~22\\240417~22.vcxproj|solutionrelative:240417~22\\\uAD6C\uC870\uCCB4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664BFE86-18E9-46F6-98A8-F787BC901D38}|240417~22\\240417~22.vcxproj|C:\\Users\\User\\Desktop\\c\uC5B8\uC5B4\\240417~22\\240417~22\\\uD30C\uC77C \uC785\uCD9C\uB8252.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{664BFE86-18E9-46F6-98A8-F787BC901D38}|240417~22\\240417~22.vcxproj|solutionrelative:240417~22\\\uD30C\uC77C \uC785\uCD9C\uB8252.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uAD6C\uC870\uCCB4.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c\uC5B8\uC5B4\\240417~22\\240417~22\\\uAD6C\uC870\uCCB4.c",
+              "RelativeDocumentMoniker": "240417~22\\\uAD6C\uC870\uCCB4.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c\uC5B8\uC5B4\\240417~22\\240417~22\\\uAD6C\uC870\uCCB4.c",
+              "RelativeToolTip": "240417~22\\\uAD6C\uC870\uCCB4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-24T05:15:21.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uD30C\uC77C \uC785\uCD9C\uB8252.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c\uC5B8\uC5B4\\240417~22\\240417~22\\\uD30C\uC77C \uC785\uCD9C\uB8252.c",
+              "RelativeDocumentMoniker": "240417~22\\\uD30C\uC77C \uC785\uCD9C\uB8252.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c\uC5B8\uC5B4\\240417~22\\240417~22\\\uD30C\uC77C \uC785\uCD9C\uB8252.c",
+              "RelativeToolTip": "240417~22\\\uD30C\uC77C \uC785\uCD9C\uB8252.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-22T03:10:52.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
